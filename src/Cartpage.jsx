@@ -75,7 +75,7 @@ export default function CartPage({ handleItemChange }) {
   );
 
   return (
-    <main className="min-h-screen bg-gray-100 p-6">
+    <main className="min-h-screen  bg-amber-300 p-6">
       <h1 className="text-4xl font-semibold text-center mb-10">YOUR BAG</h1>
 
       {cart.length === 0 ? (

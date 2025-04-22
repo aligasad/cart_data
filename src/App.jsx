@@ -1,6 +1,6 @@
 import './App.css';
 import { FaCartPlus } from "react-icons/fa";
-import CartPage from './CartPage';
+import CartPage from './Cartpage.jsx';
 import React, { useState } from 'react';
 
 function App() {
